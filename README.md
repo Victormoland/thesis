@@ -1,2 +1,2 @@
-# thesis
+# Thesis
 ESC - Electronic Speed Controller
