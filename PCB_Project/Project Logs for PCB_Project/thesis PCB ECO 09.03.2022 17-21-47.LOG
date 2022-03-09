@@ -1,0 +1,11 @@
+Added Component: Designator=J_1(Conn_01x01)
+Added Component: Designator=J_5(Conn_01x01)
+Added Pin To Net: NetName=VDC Pin=J_1-1
+Added Pin To Net: NetName=VDC Pin=J_1-1
+Added Pin To Net: NetName=GND Pin=J_5-1
+Added Pin To Net: NetName=GND Pin=J_5-1
+Added Member To Class: ClassName=thesis Member=Component J_1 Connector
+Added Member To Class: ClassName=thesis Member=Component J_5 Connector
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Room: Name=thesis
