@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J_2 NewDesignator=A
+Change Component Designator: OldDesignator=J_3 NewDesignator=B
+Change Component Designator: OldDesignator=J_4 NewDesignator=C
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetA_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetB_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetC_1
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Room: Name=thesis
