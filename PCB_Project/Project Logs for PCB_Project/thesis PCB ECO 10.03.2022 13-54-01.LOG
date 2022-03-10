@@ -1,0 +1,182 @@
+Change Component DesignItemId : Designator=C18 Old DesignItemId=Cap_1210 New DesignItemId=Cap_0603
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAP_ALUM_liggende New DesignItemId=CAP_Radial
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP_ALUM_liggende New DesignItemId=CAP_Radial
+Change Component Footprint: Designator=C18 Old Footprint=Cap_1210 New Footprint=CAP_0603
+Change Component Footprint: Designator=C1 Old Footprint=Cap_alu_liggende New Footprint=Cap_radial
+Change Component Footprint: Designator=C2 Old Footprint=Cap_alu_liggende New Footprint=Cap_radial
+Change Component Comment : Designator=C18 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C4 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C5 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C6 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C7 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C8 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C9 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C10 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C11 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C12 Old Comment=Cap_1210 New Comment=4u7
+Change Component Comment : Designator=C1 Old Comment=CAP_ALUM_liggende New Comment=470uF
+Change Component Comment : Designator=C2 Old Comment=CAP_ALUM_liggende New Comment=470uF
+Change Component Comment : Designator=R24 Old Comment=RES_0603 New Comment=1k
+Change Component Comment : Designator=R30 Old Comment=RES_0603 New Comment=1k
+Change Component Comment : Designator=R31 Old Comment=RES_0603 New Comment=1k
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Description : Designator=C18 Old Description=Capacitor New Description=Chip Capacitor
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Cap_alu_liggende"; UniqueID = "\QJBQIDMJ" ("\QJBQIDMJ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2287007P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "Cap_alu_liggende"; UniqueID = "\LMYUOCNH" ("\LMYUOCNH")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2287007P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "Cap_1210"; UniqueID = "\XUNUJTKG" ("\XUNUJTKG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Cap_1210"; UniqueID = "\KDVXXNVI" ("\KDVXXNVI")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Cap_1210"; UniqueID = "\RVEGUYGZ" ("\RVEGUYGZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "Cap_1210"; UniqueID = "\IQXRMASZ" ("\IQXRMASZ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Cap_1210"; UniqueID = "\SIINHDRB" ("\SIINHDRB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Cap_1210"; UniqueID = "\VYVGFGCU" ("\VYVGFGCU")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "Cap_1210"; UniqueID = "\GJIBXSHA" ("\GJIBXSHA")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "Cap_1210"; UniqueID = "\GUKOZEIP" ("\GUKOZEIP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "Cap_1210"; UniqueID = "\NTDIATMB" ("\NTDIATMB")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "Cap_1210"; UniqueID = "\PRISBOSG" ("\PRISBOSG")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3061308"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "Cap_1210"; UniqueID = "\XHSMAPUO" ("\XHSMAPUO")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "Res_0603"; UniqueID = "\JQRIWWRL" ("\JQRIWWRL")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "61M5328"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "Res_0603"; UniqueID = "\IGKUQEYW" ("\IGKUQEYW")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "61M5328"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "Res_0603"; UniqueID = "\UAWPYBBN" ("\UAWPYBBN")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "61M5328"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "Res_0603"; UniqueID = "\XLCBOVMQ" ("\XLCBOVMQ")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "61M5328"; VariantName = "[No Variations]"
+Added Component: Designator=D4(Zener_51V)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMC5K51A-M3/IGICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(Zener_51V)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMC5K51A-M3/IGICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(Zener_51V)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMC5K51A-M3/IGICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=H1(Mounting_holes)
+Added Component: Designator=H2(Mounting_holes)
+Added Component: Designator=H3(Mounting_holes)
+Added Component: Designator=H4(Mounting_holes)
+Added Pin To Net: NetName=VDC Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=VDC Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=VDC Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=+5 Pin=D14-A
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=NetD14_C Pin=D14-C
+Added Pin To Net: NetName=NetD14_C Pin=R30-2
+Added Net: Name=NetD14_C
+Added Member To Class: ClassName=thesis Member=Component D4 51V
+Added Member To Class: ClassName=thesis Member=Component D5 51V
+Added Member To Class: ClassName=thesis Member=Component D6 51V
+Added Member To Class: ClassName=thesis Member=Component H1 MountingHole_Pad
+Added Member To Class: ClassName=thesis Member=Component H2 MountingHole_Pad
+Added Member To Class: ClassName=thesis Member=Component H3 MountingHole_Pad
+Added Member To Class: ClassName=thesis Member=Component H4 MountingHole_Pad
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Member To Class: ClassName=thesis Member=Component U4 Mitochondrik_LV
+Added Room: Name=thesis
