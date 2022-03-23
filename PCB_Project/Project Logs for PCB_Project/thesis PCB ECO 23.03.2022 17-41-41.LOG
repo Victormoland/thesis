@@ -1,0 +1,58 @@
+Add Component: Footprint Not Found LED_0402
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D16-1
+Add Pin To Net: Unknown Pin: Pin D16-2
+Add Pin To Net: Unknown Pin: Pin D16-3
+Add Pin To Net: Unknown Pin: Pin D16-4
+Add Pin To Net: Unknown Pin: Pin D18-1
+Add Pin To Net: Unknown Pin: Pin D18-2
+Add Pin To Net: Unknown Pin: Pin D19-1
+Add Pin To Net: Unknown Pin: Pin D19-2
+Add Pin To Net: Unknown Pin: Pin D19-3
+Add Pin To Net: Unknown Pin: Pin D19-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Added Pin To Net: NetName=+5 Pin=U4-40
+Add Class Member: Failed to add class member : Component * LOGO
+Add Class Member: Failed to add class member : Component D1 D_Zener
+Add Class Member: Failed to add class member : Component D2 D_Zener
+Add Class Member: Failed to add class member : Component D3 D_Zener
+Add Class Member: Failed to add class member : Component D7 D_Zener
+Add Class Member: Failed to add class member : Component D8 D_Zener
+Add Class Member: Failed to add class member : Component D9 D_Zener
+Add Class Member: Failed to add class member : Component D10 D_Zener
+Add Class Member: Failed to add class member : Component D11 D_Zener
+Add Class Member: Failed to add class member : Component D12 LED
+Add Class Member: Failed to add class member : Component D16
+Add Class Member: Failed to add class member : Component D18 PMEG2010AEH
+Add Class Member: Failed to add class member : Component D19 DRTR5V0U2SR-7
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Added Member To Class: ClassName=thesis Member=Component Tele_1 JST-GH-4
+Add Class Member: Failed to add class member : Component U1 MCP2544FDT-E_MNY
+Add Class Member: Failed to add class member : Component U3 11LC040T-E_TT
+Added Room: Name=thesis
