@@ -1,0 +1,9 @@
+Added Component: Designator=D19(DRTR5V0OU2SR-7)
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_3 Pin=D19-3
+Added Pin To Net: NetName=NetD18_2 Pin=D19-4
+Add Class Member: Failed to add class member : Component * LOGO
+Added Member To Class: ClassName=thesis Member=Component D19 DRTR5V0U2SR-7
+Added Member To Class: ClassName=thesis Member=Component R20 Shunt_res
+Added Room: Name=thesis

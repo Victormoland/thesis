@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetD7_2 Pin=U4-13
+Removed Pin From Net: NetName=GND Pin=U4-14
+Removed Pin From Net: NetName=NetD9_2 Pin=U4-15
+Removed Pin From Net: NetName=GND Pin=U4-16
+Change Component Description : Designator=R19 Old Description=RES 0.002 OHM 1% 3W 2512 New Description=RES 2512
+Change Component Description : Designator=R20 Old Description=RES 0.002 OHM 1% 3W 2512 New Description=RES 2512
+Change Component Description : Designator=R21 Old Description=RES 0.002 OHM 1% 3W 2512 New Description=RES 2512
+Add Pin To Net: Unknown Pin: Pin D19-1
+Add Pin To Net: Unknown Pin: Pin D19-2
+Add Pin To Net: Unknown Pin: Pin D19-3
+Add Pin To Net: Unknown Pin: Pin D19-4
+Added Pin To Net: NetName=NetR19_3 Pin=R19-3
+Added Pin To Net: NetName=NetR19_3 Pin=U4-14
+Added Net: Name=NetR19_3
+Added Pin To Net: NetName=NetR19_4 Pin=R19-4
+Added Pin To Net: NetName=NetR19_4 Pin=U4-13
+Added Net: Name=NetR19_4
+Added Pin To Net: NetName=NetR20_3 Pin=R20-3
+Added Net: Name=NetR20_3
+Added Pin To Net: NetName=NetR20_4 Pin=R20-4
+Added Net: Name=NetR20_4
+Added Pin To Net: NetName=NetR21_3 Pin=R21-3
+Added Pin To Net: NetName=NetR21_3 Pin=U4-16
+Added Net: Name=NetR21_3
+Added Pin To Net: NetName=NetR21_4 Pin=R21-4
+Added Pin To Net: NetName=NetR21_4 Pin=U4-15
+Added Net: Name=NetR21_4
+Add Class Member: Failed to add class member : Component * LOGO
+Add Class Member: Failed to add class member : Component D19 DRTR5V0U2SR-7
+Added Room: Name=thesis
