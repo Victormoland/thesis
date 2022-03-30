@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetA_1 New Net Name=Phase_a
+Change Net Name : Old Net Name=NetB_1 New Net Name=phase_b
+Change Net Name : Old Net Name=NetC_1 New Net Name=phase_c
+Add Class Member: Failed to add class member : Component * LOGO
+Added Room: Name=thesis
