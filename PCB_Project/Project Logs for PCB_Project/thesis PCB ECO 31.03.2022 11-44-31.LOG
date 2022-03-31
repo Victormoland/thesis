@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Phase_a Pin=U4-2
+Removed Pin From Net: NetName=phase_b Pin=U4-6
+Removed Pin From Net: NetName=phase_c Pin=U4-10
+Added Pin To Net: NetName=NetU4_2 Pin=U4-2
+Added Net: Name=NetU4_2
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Net: Name=NetU4_6
+Added Pin To Net: NetName=NetU4_10 Pin=U4-10
+Added Net: Name=NetU4_10
+Add Class Member: Failed to add class member : Component * LOGO
+Added Room: Name=thesis

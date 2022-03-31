@@ -1,0 +1,10 @@
+Change Net Name : Old Net Name=GND New Net Name=phase_c_gnd
+Change Net Name : Old Net Name=NetD1_1 New Net Name=phase_a_gate_high
+Change Net Name : Old Net Name=NetD2_1 New Net Name=phase_b_gate_high
+Change Net Name : Old Net Name=NetD3_1 New Net Name=phase_c_gate_high
+Change Net Name : Old Net Name=NetD7_1 New Net Name=phase_a_gate_low
+Change Net Name : Old Net Name=NetD7_2 New Net Name=phase_a_gnd
+Change Net Name : Old Net Name=NetD8_1 New Net Name=phase_b_gate_low
+Change Net Name : Old Net Name=NetD8_2 New Net Name=phase_b_gnd
+Change Net Name : Old Net Name=NetD9_1 New Net Name=phase_c_gate_low
+Add Class Member: Failed to add class member : Component * LOGO

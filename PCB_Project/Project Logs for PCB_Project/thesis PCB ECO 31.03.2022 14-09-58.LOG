@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=CANH New Net Name=CAN_P
+Change Net Name : Old Net Name=CANL New Net Name=CAN_N
+Change Net Name : Old Net Name=NetD18_2 New Net Name=VBUS
+Change Net Name : Old Net Name=NetD19_2 New Net Name=USB_P
+Change Net Name : Old Net Name=NetD19_3 New Net Name=USB_N
+Added Differential Pair: Name=CAN
+Added Differential Pair: Name=USB
+Add Class Member: Failed to add class member : Component * LOGO
+Added Room: Name=thesis

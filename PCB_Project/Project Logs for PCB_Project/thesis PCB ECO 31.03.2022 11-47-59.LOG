@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Phase_a Pin=U4-2
+Added Pin To Net: NetName=phase_b Pin=U4-6
+Added Pin To Net: NetName=phase_c Pin=U4-10
+Add Class Member: Failed to add class member : Component * LOGO

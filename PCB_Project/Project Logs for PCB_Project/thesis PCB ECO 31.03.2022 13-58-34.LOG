@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN Pin=Tele_1-3
+Removed Pin From Net: NetName=CAN Pin=Tele_2-3
+Removed Pin From Net: NetName=CAN Pin=U1-6
+Added Pin To Net: NetName=NetC15_2 Pin=Tele_1-1
+Change Net Name : Old Net Name=CAN New Net Name=CANH
+Added Pin To Net: NetName=CANL Pin=Tele_1-3
+Added Pin To Net: NetName=CANL Pin=Tele_2-3
+Added Pin To Net: NetName=CANL Pin=U1-6
+Added Net: Name=CANL
+Add Differential Pair: Number of nets in differential pair CANH is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CANL is 1 instead of 2
+Add Class Member: Failed to add class member : Component * LOGO
+Added Room: Name=thesis

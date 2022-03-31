@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetTele_1_3 Pin=Tele_1-2
+Added Pin To Net: NetName=NetTele_1_3 Pin=Tele_2-2
+Added Pin To Net: NetName=NetTele_1_3 Pin=U1-7
+Change Net Name : Old Net Name=NetTele_1_3 New Net Name=CAN
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
+Add Class Member: Failed to add class member : Component * LOGO
