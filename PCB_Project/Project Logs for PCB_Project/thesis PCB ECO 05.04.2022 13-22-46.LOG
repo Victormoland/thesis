@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R28 Old Comment=RES_0603 New Comment=100Ohm
+Change Component Comment : Designator=R29 Old Comment=RES_0603 New Comment=100Ohm
+Added Pin To Net: NetName=CAN_P Pin=U1-1
+Added Pin To Net: NetName=CAN_N Pin=U1-4
+Added Pin To Net: NetName=CAN_N Pin=U4-38
+Added Pin To Net: NetName=CAN_P Pin=U4-39
+Add Class Member: Failed to add class member : Component * LOGO
