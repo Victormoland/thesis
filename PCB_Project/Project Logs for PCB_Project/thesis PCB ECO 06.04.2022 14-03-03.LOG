@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetR32_1 New Net Name=USB1_N
+Change Net Name : Old Net Name=NetR33_1 New Net Name=USB1_P
+Added Differential Pair: Name=USB1
