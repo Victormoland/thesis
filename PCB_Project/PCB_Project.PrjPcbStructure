@@ -1,2 +1,2 @@
-Record=TopLevelDocument|FileName=thesis.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=thesis.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=comments.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=comments.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=comments.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=comments.SchDoc|FileName=thesis.SchDoc|SheetNumber=1
